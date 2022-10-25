@@ -8,6 +8,7 @@ I'm an aspiring front end web developer from Nigeria.
 
 ## 🔗 Links
 Portfolio (My portfolio is not online yet but you can get a glimpse here: (https://replit.com/@OluwadarasimiOd/Portfolio)]
+
 Linkedin (https://www.linkedin.com/)
 
 
