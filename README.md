@@ -1,16 +1,34 @@
-### Hi there 👋
 
-<!--
-**oluwadara5000/oluwadara5000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Oluwadarasimi! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm an aspiring front end web developer from Nigeria.
+
+
+## 🔗 Links
+Portfolio (My portfolio is not online yet but you can get a glimpse here: (https://replit.com/@OluwadarasimiOd/Portfolio)]
+Linkedin (https://www.linkedin.com/)
+
+
+
+## Other details about me are:
+
+- 🔭 I’m currently undergoing training via the Zuri Training
+
+- 🌱 I’m currently learning HTML, CSS JavaScript with Zuri
+
+- 👯 I’m looking to collaborate on various front end projects in order to improve my skills.
+
+- 🤔 I’m looking for help with JavaScript language
+
+- 💬 You can ask me questions about HTML and CSS
+
+- 📫 You can reach me on my email @: oluwadarasimi5000@gmail.com
+
+- 😄 Pronouns: He
+
+
+## 🛠 Skills
+My skills include HTML, CSS and some basic Javascript
+
